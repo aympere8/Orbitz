@@ -10,3 +10,6 @@
 2. Wait for the project to start and then open the URL generated in a browser.
 3. A QR code will be displayed that has to be scanned through expo go mobile app(recommended version 2.18.3).
 4. Install expo go and scan the QR code. to run the app on android device.
+
+## Screenshots
+![login](screens/1.jpg)
